@@ -1,4 +1,3 @@
-//Destructuring de objetos
 const persona1 = {
     nombre: "Oscar",
     apellido: "De la Hoya",
